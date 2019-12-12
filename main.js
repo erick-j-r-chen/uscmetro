@@ -9,7 +9,7 @@ window.onmousemove = function (e) {
   $("#tooltip").hide();
   $("#Fertitta_Hall").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for the Marshall School of Business's Fertitta Hall. ");
+        $("#tooltip").html("Exit here for the Marshall School of Business's Fertitta Hall. 🍽Fertitta Cafe, Popovich Cafe🍽");
   }, function () {
   $("#tooltip").hide();
   })
@@ -17,7 +17,7 @@ window.onmousemove = function (e) {
   $("#tooltip").hide();
   $("#Exposition_Figueroa").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for the ICON Plaza. ");
+        $("#tooltip").html("Exit here for the ICON Plaza. 🍽Starbucks, Wing Stop🍽");
   }, function () {
   $("#tooltip").hide();
   })
@@ -161,7 +161,7 @@ $("#tooltip").hide();
  $("#tooltip").hide();
   $("#Northern_Religious_Distric").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for the Village Target, the Caruso Catholic Center and the Hillel Jewish Center. ");
+        $("#tooltip").html("Exit here for the Village Target, Trader Joes, the Caruso Catholic Center and the Hillel Jewish Center. 🍽Rock & Reilly's, Saola, etc.🍽");
   }, function () {
   $("#tooltip").hide();
   })
@@ -169,7 +169,7 @@ $("#tooltip").hide();
  $("#tooltip").hide();
   $("#Cinematic_Arts").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for the School of Cinematic Arts. ");
+        $("#tooltip").html("Exit here for the School of Cinematic Arts. 🍽Coffee Bean & Tea Leaf🍽");
   }, function () {
   $("#tooltip").hide();
   })
@@ -177,7 +177,7 @@ $("#tooltip").hide();
  $("#tooltip").hide();
   $("#Fields").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for Cromwell Field and Brittingham Field. ");
+        $("#tooltip").html("Exit here for Cromwell Field and Brittingham Field. 🍽Little Galen🍽");
   }, function () {
   $("#tooltip").hide();
   })
@@ -201,7 +201,7 @@ $("#tooltip").hide();
  $("#tooltip").hide();
   $("#Parkside").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for the Parkside residences and Parkside dining hall. ");
+        $("#tooltip").html("Exit here for the Parkside residences. 🍽Parkside Dining Hall🍽");
   }, function () {
   $("#tooltip").hide();
   })
@@ -225,7 +225,7 @@ $("#tooltip").hide();
  $("#tooltip").hide();
   $("#Industrial Zone-Central").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for Vivian Hall, Loker Hydrocarbon Research Institute, Dept. of Chem. Engineering and Material Sciences. ");
+        $("#tooltip").html("Exit here for Vivian Hall, Loker Hydrocarbon Research Institute, Dept. of Chem. Engineering and Material Sciences. 🍽Tutor Hall Cafe🍽");
   }, function () {
   $("#tooltip").hide();
   })
@@ -241,7 +241,7 @@ $("#tooltip").hide();
  $("#tooltip").hide();
   $("#New_Media").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for the Wallis Hall of the Annenberg School of Journalism. ");
+        $("#tooltip").html("Exit here for the Wallis Hall of the Annenberg School of Journalism. 🍽Annenberg Cafe🍽");
   }, function () {
   $("#tooltip").hide();
   })
@@ -281,7 +281,7 @@ $("#tooltip").hide();
 $("#tooltip").hide();
   $("#McCarthy_Quad").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for the McCarthy Quad, Birnkrant Residences, and Leavey Library. ");
+        $("#tooltip").html("Exit here for the McCarthy Quad, Birnkrant Residences, and Leavey Library. 🍽Everybody's Kitchen, Starbucks🍽");
   }, function () {
   $("#tooltip").hide();
   })
@@ -289,7 +289,7 @@ $("#tooltip").hide();
 $("#tooltip").hide();
   $("#Doheny_Library").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for the Doheny Library, Alumni Park and Hubbard Hall of Administration. ");
+        $("#tooltip").html("Exit here for the Doheny Library, Alumni Park and Hubbard Hall of Administration. 🍽Literatea🍽");
   }, function () {
   $("#tooltip").hide();
   }) 
@@ -297,7 +297,7 @@ $("#tooltip").hide();
 $("#tooltip").hide();
   $("#Campus_Center").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for the Ronald Tutor Campus Center. ");
+        $("#tooltip").html("Exit here for the Ronald Tutor Campus Center. 🍽The Habit, Panda Express, CPK, etc.🍽");
   }, function () {
   $("#tooltip").hide();
   })
@@ -345,7 +345,7 @@ $("#tooltip").hide();
 $("#tooltip").hide();
   $("#Arts_District").hover(function(){
   $("#tooltip").show();
-        $("#tooltip").html("Exit here for the Roski School of Art and School of Architecture. ");
+        $("#tooltip").html("Exit here for the Roski School of Art and School of Architecture. 🍽C&G Juice🍽");
   }, function () {
   $("#tooltip").hide();
   })
