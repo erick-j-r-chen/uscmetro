@@ -14,65 +14,6 @@ body{
 
 .container {
   border-radius: 2vw;
-  width: 80vw;
-  min-height: 80vh;
-  margin: auto;
-  background: lightblue;
-  margin-top: 15vw;
-  position: relative;
-}
-
-a:hover path{
-  fill:green;
-
-}
-a:hover{fill: blue;}
-
-.small { font: italic 10px sans-serif; }
-.st0:hover{
-  fill:yellow;
-}
-
-
-#tooltip{
-  position: absolute;
-  top:0;
-  left:0;
-  height: 200px;
-  width: 200px;
-  z-index: 100;
-  background: red;
-  font-size: 20px;
-  border-radius: 10px;
-}
-.article{
-  border-radius: 2vw;
-  width: 40%;
-  padding: 1%;
-  margin-left: 4%;
-  margin-right: 3.5%;
-  margin-top: 10vh;
-  min-height: 30vh;
-  background: cyan;
-  float: left;
-  transition: background 2s;
-}
-body{
-  margin: 0px;
-}
-
-.logo {
-  width: 10vw;
-  height: 10vw;
-  border-radius: 2vw;
-  background: pink;
-  position: absolute;
-  left: 10vw;
-  top: 3vw;
-}
-
-.container {
-  border-radius: 2vw;
   width: 200vw;
   min-height: 200vh;
   margin: auto;
@@ -115,4 +56,8 @@ a:hover{fill: blue;}
   background: cyan;
   float: left;
   transition: background 2s;
+}
+
+.cls-27:hover{
+    fill: #FFA550;
 }

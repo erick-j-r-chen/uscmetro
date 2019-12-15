@@ -15,10 +15,16 @@ window.onmousemove = function (e) {
   $("#tooltip").hide();
   })
 
+
+$(".cls-27").hover(function(){
+  $(".cls-27").html("Hello there my dear friend");
+})
+
 // $("#Fertitta_Hall").hover(function(){
 //    $("#Fertitta_Hall").show();
 //    $("#Fertitta_Hall").attr("src", "fertitta.jpg");
 //    })
+
 //   $("#tooltip").hide();
 //   $("#Exposition_Figueroa").hover(function(){
 //   $("#tooltip").show();
