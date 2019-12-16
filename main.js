@@ -17,8 +17,121 @@ window.onmousemove = function (e) {
 
 
 $(".cls-27").hover(function(){
-  $(".cls-27").html("Hello there my dear friend");
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the Figueroa Line train bound for Exposition/Figueroa.");
+  }, function(){
+  $("#tooltip").hide();
 })
+
+$(".cls-29").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the Jefferson Line train bound for Galen Center.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-30").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the Hoover Line train bound for Party District.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-31").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the McClintock Line train bound for Village/Northern Religious District.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-32").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the Vermont Line train bound for Expo/Vermont.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-33").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the Exposition Line train bound for Expo/Vermont.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-34").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the West 34th Line train bound for International District.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-26").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the Childs Line train bound for Fertitta Hall.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-35").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the Pardee Line train bound for Courthouse District.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-36").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the Trousdale Parkway Line train bound for Expo Park/USC.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-37").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the West 37th Line train bound for Innovation.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-38").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the Hellman Line train bound for Hellman Residences.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-39").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the Watt Line train bound for Watt Way.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-40").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the McCarthy Line train bound for McCarthy Way.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-41").hover(function(){
+  $("#tooltip").show();
+    $("#tooltip").html("Thank you for using the USC Metro. This is is the Downey Line train bound for Campus Center.");
+  }, function(){
+  $("#tooltip").hide();
+})
+
+$(".cls-28").hover(function(){
+  $("#tooltip").html("Thank you for using the USC Metro. This is is the Trousdale-Bloom Line express train bound for Gerontology.");
+  var img = $('<img id="dynamic">');
+  img.attr('src', 'a.jpg');
+  img.appendTo('#tooltip');
+  $("#tooltip").show();
+  }, function(){
+  $("#tooltip").hide();
+})
+
+
 
 // $("#Fertitta_Hall").hover(function(){
 //    $("#Fertitta_Hall").show();

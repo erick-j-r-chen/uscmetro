@@ -2,16 +2,6 @@ body{
   margin: 0px;
 }
 
-.logo {
-  width: 10vw;
-  height: 10vw;
-  border-radius: 2vw;
-  background: pink;
-  position: absolute;
-  left: 10vw;
-  top: 3vw;
-}
-
 .container {
   border-radius: 2vw;
   width: 200vw;
@@ -21,18 +11,6 @@ body{
   margin-top: 15vw;
   position: relative;
 }
-
-a:hover path{
-  fill:green;
-
-}
-a:hover{fill: blue;}
-
-.small { font: italic 10px sans-serif; }
-.st0:hover{
-  fill:yellow;
-}
-
 
 #tooltip{
   position: absolute;
@@ -57,7 +35,71 @@ a:hover{fill: blue;}
   float: left;
   transition: background 2s;
 }
+.cls-26:hover{
+    fill: #448AFF; 
+}
 
 .cls-27:hover{
-    fill: #FFA550;
+    fill: #FFCC80; 
+}
+
+.cls-28:hover{
+    fill: #BCAAA4; 
+}
+
+.cls-29:hover{
+    fill: #7C4DFF; 
+}
+
+.cls-30:hover{
+    fill: #9FA8DA; 
+}
+
+.cls-31:hover{
+    fill: #FF5252; 
+}
+
+.cls-32:hover{
+    fill: #F48FB1; 
+}
+
+.cls-33:hover{
+    fill: #536DFE; 
+}
+
+.cls-34:hover{
+    fill: #81D4FA; 
+}
+
+.cls-35:hover{
+    fill: #B39DDB; 
+}
+
+.cls-36:hover{
+    fill: #FFF59D 
+}
+
+.cls-37:hover{
+    fill: #E6EE9C; 
+}
+
+.cls-38:hover{
+    fill: #64FFDA; 
+}
+
+.cls-39:hover{
+    fill: #EEEEEE; 
+}
+
+.cls-40:hover{
+    fill: #90CAF9; 
+}
+
+.cls-41:hover{
+    fill: #C5E1A5; 
+}
+
+img{
+  width: 25%;
+  height: 25%;
 }
