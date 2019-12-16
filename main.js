@@ -123,16 +123,323 @@ $(".cls-41").hover(function(){
 
 $(".cls-28").hover(function(){
   $("#tooltip").html("Thank you for using the USC Metro. This is is the Trousdale-Bloom Line express train bound for Gerontology.");
-  var img = $('<img id="dynamic">');
-  img.attr('src', 'a.jpg');
-  img.appendTo('#tooltip');
   $("#tooltip").show();
   }, function(){
   $("#tooltip").hide();
 })
 
-
-
+$("#Fertitta_Hall").hover(function(){
+    $("#Fertitta_Hall").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'a.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Exposition_Figueroa").hover(function(){
+    $("#Exposition_Figueroa").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'iconplaza.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Courthouse_District").hover(function(){
+    $("#Courthouse_District").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'law.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Expo_Park_USC").hover(function(){
+    $("#Expo_Park_USC").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'expopark.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Art_Museum").hover(function(){
+    $("#Art_Museum").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'artmuseum.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Watt_Way").hover(function(){
+    $("#Watt_Way").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'wattway.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Expo_Vermont").hover(function(){
+    $("#Expo_Vermont").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'vermont.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Tommy_Trojan").hover(function(){
+    $("#Tommy_Trojan").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'tommytrojan.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Business_District").hover(function(){
+    $("#Business_District").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'business.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#WPH-Taper").hover(function(){
+    $("#WPH-Taper").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'THH.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Hellman_Residences").hover(function(){
+    $("#Hellman_Residences").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'pardee.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#McCarthy_Way").hover(function(){
+    $("#McCarthy_Way").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'newnorth.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#International_District").hover(function(){
+    $("#International_District").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'ia.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Galen_Center").hover(function(){
+    $("#Galen_Center").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'galen.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Widney_Alumni_House").hover(function(){
+    $("#Widney_Alumni_House").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'widney.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Parkside-International").hover(function(){
+    $("#Parkside-International").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'parksideintl.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Downey_Way").hover(function(){
+    $("#Downey_Way").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'downey.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Kaprelian").hover(function(){
+    $("#Kaprelian").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'kap.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Vermont_Jefferson").hover(function(){
+    $("#Vermont_Jefferson").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'univgar.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Northern_Apartments").hover(function(){
+    $("#Northern_Apartments").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'cargar.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Northern_Religious_Distric").hover(function(){
+    $("#Northern_Religious_Distric").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'village.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Cinematic_Arts").hover(function(){
+    $("#Cinematic_Arts").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'sca.png');
+      img.appendTo('#tooltip');
+    })
+$("#Fields").hover(function(){
+    $("#Fields").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'brittingham.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Sports_District").hover(function(){
+    $("#Sports_District").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'sports.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Gerontology").hover(function(){
+    $("#Gerontology").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'gerontology.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Parkside").hover(function(){
+    $("#Parkside").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'parkside.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Innovation").hover(function(){
+    $("#Innovation").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'iovineyoung.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Industrial_Zone-North").hover(function(){
+    $("#Industrial_Zone-North").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'olin.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Industrial_Zone-Central").hover(function(){
+    $("#Industrial_Zone-Central").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'vivian.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Industrial_Zone-East").hover(function(){
+    $("#Industrial_Zone-East").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'stabler.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#New_Media").hover(function(){
+    $("#New_Media").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'wallis.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Media").hover(function(){
+    $("#").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'oldmedia.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Dance").hover(function(){
+    $("#Dance").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'dance.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#JEP_KSI").hover(function(){
+    $("#JEP_KSI").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'jep.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#United_Nations").hover(function(){
+    $("#United_Nations").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'vkc.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#McCarthy_Quad").hover(function(){
+    $("#McCarthy_Quad").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'quad.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Doheny_Library").hover(function(){
+    $("#Doheny_Library").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'doheny.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Campus_Center").hover(function(){
+    $("#Campus_Center").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'campuscenter.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Party_District").hover(function(){
+    $("#Party_District").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'row.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Shrine_Auditorium").hover(function(){
+    $("#Shrine_Auditorium").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'shrine.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Dentistry").hover(function(){
+    $("#Dentistry").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'dentistry.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Religious_District").hover(function(){
+    $("#Religious_District").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'urc.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Music_District").hover(function(){
+    $("#Music_District").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'thornton.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#Arts_District").hover(function(){
+    $("#Arts_District").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', 'art.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#").hover(function(){
+    $("#").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', '.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#").hover(function(){
+    $("#").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', '.jpg');
+      img.appendTo('#tooltip');
+    })
+v$("#").hover(function(){
+    $("#").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', '.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#").hover(function(){
+    $("#").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', '.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#").hover(function(){
+    $("#").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', '.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#").hover(function(){
+    $("#").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', '.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#").hover(function(){
+    $("#").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', '.jpg');
+      img.appendTo('#tooltip');
+    })
+$("#").hover(function(){
+    $("#").show();
+      var img = $('<img id="dynamic">');
+      img.attr('src', '.jpg');
+      img.appendTo('#tooltip');
+    })
 // $("#Fertitta_Hall").hover(function(){
 //    $("#Fertitta_Hall").show();
 //    $("#Fertitta_Hall").attr("src", "fertitta.jpg");

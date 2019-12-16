@@ -3,21 +3,20 @@ body{
 }
 
 .container {
-  border-radius: 2vw;
+  border-radius: 12vw;
   width: 200vw;
   min-height: 200vh;
-  margin: auto;
-  background: orange;
+  margin: 15px;
   margin-top: 15vw;
   position: relative;
 }
 
 #tooltip{
   position: absolute;
-  top:0;
-  left:0;
-  height: 150px;
-  width: 200px;
+  top:50px;
+  left:50px;
+  height: 200px;
+  width: 250px;
   z-index: 100;
   background: lightblue;
   font-size: 20px;
@@ -25,14 +24,14 @@ body{
 }
 .article{
   border-radius: 2vw;
-  width: 40%;
+  width: 4%;
   padding: 1%;
-  margin-left: 4%;
-  margin-right: 3.5%;
+  margin-left: 5%;
+  margin-right: 75%;
   margin-top: 10vh;
   min-height: 30vh;
   background: cyan;
-  float: left;
+  float: center;
   transition: background 2s;
 }
 .cls-26:hover{
@@ -100,6 +99,6 @@ body{
 }
 
 img{
-  width: 25%;
-  height: 25%;
+  width: 50%;
+  height: 50%;
 }
