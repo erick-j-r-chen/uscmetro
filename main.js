@@ -155,7 +155,7 @@ $("#Expo_Park_USC").hover(function(){
 $("#Art_Museum").hover(function(){
     $("#Art_Museum").show();
       var img = $('<img id="dynamic">');
-      img.attr('src', 'artmuseum.jpg');
+      img.attr('src', 'artmuseum.jpeg');
       img.appendTo('#tooltip');
     })
 $("#Watt_Way").hover(function(){
