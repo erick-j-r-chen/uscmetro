@@ -1,5 +1,6 @@
 body{
   margin: 0px;
+  background: #990000;
 }
 
 .container {
@@ -102,5 +103,27 @@ img{
   width: 50%;
   height: 50%;
   align-content: center;
-  
+}
+
+header{
+  font-family: 'Metrophobic', sans-serif;
+  font-size: 60px;
+  color: #FFCC00;
+  text-shadow:#FC0 5px 0px 7px, 0px 0px 5em red,  0 0 0.5em #990000;
+}
+
+h3{
+  font-family: 'Metrophobic', sans-serif;
+  color: #FFCC00;
+}
+
+h2{
+  font-family: 'Metrophobic', sans-serif;
+  color: #FFCC00;
+  font-size: 25px;
+}
+
+.titlelogo{
+  width: 25%;
+  height: 25%;
 }
